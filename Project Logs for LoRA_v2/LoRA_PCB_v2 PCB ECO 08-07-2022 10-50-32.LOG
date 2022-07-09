@@ -1,0 +1,8 @@
+Change Component Comment : Designator=U2 Old Comment=SM1262 New Comment=SM1262IMLTRT
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SX"; UniqueID = "\VBTINDYC" ("\VBTINDYC")
+Change component parameters (AddParameter): Name = "MP"; Value = "1262IMLTRT"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=LoRA_Schematic New Net Name=LoRA_Schematic_v2
+Change Class Name : Old Net Name=Mikrobus New Net Name=Mikrobus_v2
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C1 0.047uF
+Added Room: Name=LoRA_Schematic_v2
+Added Room: Name=Mikrobus_v2

@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=R3-1
+Removed Pin From Net: NetName=XTA Pin=R3-2
+Added Pin To Net: NetName=XTA Pin=R3-1
+Added Pin To Net: NetName=NetC11_1 Pin=R3-2
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C1 0.047uF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C2 47pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C3 3.3pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C4 0.1pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C5 1uF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C6 39pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C7 TBD
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C8 5.6pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C9 2.2pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C10 3.3pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C11 10pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C12 39pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C13 2.4pF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C14 TBD
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C15 0.1uF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C16 1nF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C17 470nF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C18 0.1uF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C19 1.8pF
+Added Member To Class: ClassName=Mikrobus Member=Component C20 1uF
+Added Member To Class: ClassName=Mikrobus Member=Component C21 1uF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component FL1 BLM15PG100SN1D
+Added Member To Class: ClassName=LoRA_Schematic Member=Component J1 MM8030-2610RJ3
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L1 47nH
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L2 TBD
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L3 9.1nH
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L4 2.5nH
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L5 4.7nH
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L6 15uH
+Added Member To Class: ClassName=LoRA_Schematic Member=Component L7 15nH
+Added Member To Class: ClassName=Mikrobus Member=Component P1 61300811121
+Added Member To Class: ClassName=Mikrobus Member=Component P2 61300811121
+Added Member To Class: ClassName=LoRA_Schematic Member=Component R1 0 Ohm
+Added Member To Class: ClassName=LoRA_Schematic Member=Component R2 0 Ohm
+Added Member To Class: ClassName=LoRA_Schematic Member=Component R3 220
+Added Member To Class: ClassName=LoRA_Schematic Member=Component R4 100
+Added Member To Class: ClassName=LoRA_Schematic Member=Component U1 PE4259
+Added Member To Class: ClassName=LoRA_Schematic Member=Component U2 SM1262
+Added Member To Class: ClassName=Mikrobus Member=Component U3 AP7331-18WG-7
+Added Member To Class: ClassName=LoRA_Schematic Member=Component X*1 ECS-TXO-2520MV-320-AY-TR
+Added Room: Name=LoRA_Schematic
+Added Room: Name=Mikrobus

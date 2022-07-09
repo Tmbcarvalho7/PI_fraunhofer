@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VR_PA Pin=C1-2
+Added Component: Designator=C1(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF number"; Value = "GRM155R71C473KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM155R71C473KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.047uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VR_PA Pin=C1-2
+Added Room: Name=LoRA_Schematic
+Added Room: Name=Mikrobus

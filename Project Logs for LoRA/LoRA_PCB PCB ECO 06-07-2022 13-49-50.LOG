@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=R3-1
+Removed Pin From Net: NetName=XTA Pin=R3-2
+Added Component: Designator=C22(CAPC1005X56N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0402ZD102KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1005X40N)
+Add component (AddParameter): Name = "Availability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW0402100RFKTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=XTA Pin=R3-1
+Added Pin To Net: NetName=NetC11_1 Pin=R3-2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=R5-2
+Added Pin To Net: NetName=NetC22_1 Pin=U1-6
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=R5-1
+Added Net: Name=NetP2_5
+Added Member To Class: ClassName=LoRA_Schematic Member=Component C22 1nF
+Added Member To Class: ClassName=LoRA_Schematic Member=Component R5 100
+Added Room: Name=LoRA_Schematic
+Added Room: Name=Mikrobus

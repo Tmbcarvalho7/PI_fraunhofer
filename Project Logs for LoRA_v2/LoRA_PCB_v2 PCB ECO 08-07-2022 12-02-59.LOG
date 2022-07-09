@@ -1,0 +1,55 @@
+Added Component: Designator=C18(WCAP-CSGP_885012205037)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/885012205037/Wurth%20Electronics%20Inc/view-part/4217417/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4217417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4217417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "885012205037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/885012205037/Wurth%20Electronics%20Inc/view-part/4217417/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C1 0.047uF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C2 47pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C3 3.3pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C4 0.1pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C5 1uF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C6 39pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C7 TBD
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C8 5.6pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C9 2.2pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C10 3.3pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C11 10pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C12 39pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C13 2.4pF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C14 TBD
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C15 470nF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C16 1nF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C17 0.1uF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C18 0.1uF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C19 1.8pF
+Added Member To Class: ClassName=Mikrobus_v2 Member=Component C20 1uF
+Added Member To Class: ClassName=Mikrobus_v2 Member=Component C21 1uF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component C22 1nF
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component FL1 BLM15PG100SN1D
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component J1 MM8030-2610RJ3
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L1 47nH
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L2 TBD
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L3 9.1nH
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L4 2.5nH
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L5 4.7nH
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L6 15uH
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component L7 15nH
+Added Member To Class: ClassName=Mikrobus_v2 Member=Component P1 61300811121
+Added Member To Class: ClassName=Mikrobus_v2 Member=Component P2 61300811121
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component R1 0 Ohm
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component R2 0 Ohm
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component R3 220 Ohm
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component R4 100
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component R5 100
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component U1 PE4259
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component U2 SM1262IMLTRT
+Added Member To Class: ClassName=Mikrobus_v2 Member=Component U3 AP7331-18WG-7
+Added Member To Class: ClassName=LoRA_Schematic_v2 Member=Component X*1 ECS-TXO-2520MV-320-AY-TR

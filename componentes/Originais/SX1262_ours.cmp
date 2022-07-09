@@ -1,0 +1,37 @@
+Component Name : SM1262
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 25
+          VDD_IN         1              Input
+          RFI_P          21             Input
+          RFI_N          22             Input
+          NSS            19             Input
+          SCK            18             Input
+          MISO           16             Output
+          MOSI           17             Input
+          N\R\E\S\E\T\\  15             I/O
+          BUSY           14             I/O
+          XTA            3              I/O
+          XTB            4              I/O
+          VR_PA          24             Power
+          VBAT           10             Power
+          VBAT_IO        11             Power
+          VREG           7              Output
+          RFO            23             Output
+          DCC_SW         9              Output
+          DIO1           13             I/O
+          DIO2           12             I/O
+          DIO3           6              I/O
+          EXP            25             Power
+          GND            2              Power
+          GND            5              Power
+          GND            8              Power
+          GND            20             Power
+          Hidden Pins : 
+
